@@ -7,7 +7,7 @@
         "dropCallsOnFail": false,
         "firstRetryIntervalSec": 15,
         "maxAccounts": 3,
-        "maxCalls": 80,
+        "maxCalls": 400,
         "pjThreadCount": 2,
         "pjMediaThreadCount": 4,
         "pjLogLevel": 4,
