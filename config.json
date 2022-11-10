@@ -4,6 +4,12 @@
                 "PCMU/8000/1",
                 "speex/16000/1"
         ],
+        "radioCards": [
+                {"freq":"310.750",
+                "rx":"sip:6200_mpi_310.750_RX@10.0.0.49",
+                "tx":"sip:6200_mpi_310.750_TX@10.0.0.49"
+                }
+        ],
         "dropCallsOnFail": false,
         "firstRetryIntervalSec": 15,
         "maxAccounts": 3,
