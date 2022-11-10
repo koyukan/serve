@@ -21,7 +21,7 @@
         "timeoutSec": 600,
         "refreshIntervalSec": 120,
         "transport": 1,
-        "uaPrefix": "AnayurtVCS v2",
+        "uaPrefix": "AnayurtVCS v3",
         "prefferedAudioDevices": [
                 "sound",
                 "usb",
